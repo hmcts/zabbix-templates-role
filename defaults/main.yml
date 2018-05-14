@@ -1,0 +1,4 @@
+---
+# defaults file for zabbix-templates-role
+zabbix_url: 'http://my.zabbix.host.example.com/zabbix/api_jsonrpc.php'
+zabbix_token: "my.zabbix.token.change.me"
